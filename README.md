@@ -1,8 +1,5 @@
 # 关于ghostsf
 
-<!--
-**ghostsf/ghostsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi，我是 ghostsf，一个不善交际不愿被束缚的人，一个对新鲜事物感兴趣的人，一个享受创造的人
 
 ## 构成要素
