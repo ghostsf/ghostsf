@@ -19,7 +19,7 @@ Hi，我是 ghostsf，一个不善交际不愿被束缚的人，一个对新鲜�
 
 🍃动态：
 
-* [Twitter @ghostsf](https://twitter.com/ghostsf)
+* [Twitter @ghostsf](https://twitter.com/ghostsf0501)
 * [bilibili @ghostsf](https://space.bilibili.com/10825269)
 * [博客RSS](https://ghostsf.com/rss.xml)
 
