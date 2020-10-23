@@ -39,7 +39,13 @@
 
 * Nintendo Switch: SW-6691-4805-8207
 
-🍭赞助：
+## GitHub统计
+
+<a title="Hits" target="_blank" href="https://github.com/ghostsf/ghostsf"><img src="https://hits.b3log.org/ghostsf/hits.svg"></a>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ghostsf&show_icons=true)](https://github.com/ghostsf)
+
+## 🍭赞助：
 
 * [微信支付](http://cdn.ghostsf.com/wechatpay.png)
 * [支付宝](http://cdn.ghostsf.com/alipay.png)
