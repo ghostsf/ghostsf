@@ -50,3 +50,7 @@
 * [微信支付](http://cdn.ghostsf.com/wechatpay.png)
 * [支付宝](http://cdn.ghostsf.com/alipay.png)
 * [Paypal](https://www.paypal.me/ghostsf)
+
+## 🙈硬广：
+
+![abitmean.png](https://cdn.ghostsf.com/abitmean_1606804281338.png)
