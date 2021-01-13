@@ -53,4 +53,4 @@
 
 ## 🙈硬广：
 
-![abitmean.png](https://cdn.ghostsf.com/abitmean_1606804281338.png)
+![abitmean.png](https://cdn.ghostsf.com/abitmean.png)
