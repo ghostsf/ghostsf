@@ -32,11 +32,6 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ghostsf&show_icons=true)](https://github.com/ghostsf)
 
-## 🍭赞助：
-
-* [微信支付](http://cdn.ghostsf.com/wechatpay.png)
-* [支付宝](http://cdn.ghostsf.com/alipay.png)
-* [Paypal](https://www.paypal.me/ghostsf)
 
 ## 🙈硬广：
 
